@@ -1,14 +1,13 @@
-title: Your awesome title
-author:
-  name: Hamusian
+title: “The love of knowledge is a kind of madness.”
+author: Autodidact
+  name: 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This website serves as a platform for aspiring autodidacts, providing resources, tips,
-  and a supportive community to inspire and empower individuals on their self-directed learning journeys.
-  Whether you’re looking to master a new skill or explore a new subject, embrace the autodidact lifestyle and unlock your potential!
-
+  An Epistemophile: one who has a love of knowledge​; 
+  specifically, excessive striving for or preoccupation with knowledge. 
+  for the true epistemophile: one who is self-taught is called an autodidact.
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
